@@ -5,6 +5,10 @@
 
     Since the team has decided to build a wedge, this code is going to
     have to be modified to use only three motors.
+
+    The theory for such a design can be found at 
+                    https://www.mdpi.com/2073-8994/11/10/1268 
+
 """
 
 import wpilib
